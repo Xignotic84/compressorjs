@@ -17,7 +17,8 @@ Programming language: JavaScript
 The name of the tool used is karma, you can execute this by doing `yarn test`
 
 Test coverage before changes:
-<img width="692" alt="Screenshot 2024-07-08 at 6 53 59 PM" src="https://github.com/Xignotic84/compressorjs/assets/38007603/eb4c20d8-f1bf-44aa-a971-3fc515bda3e1">
+
+<img width="644" alt="Screenshot 2024-07-08 at 6 55 37 PM" src="https://github.com/Xignotic84/compressorjs/assets/38007603/e5918c23-74fc-49b1-8c9e-60730517a5fe">
 
 Test coverage after changes:
 <Show the coverage results provided by the existing tool with a screenshot>
