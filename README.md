@@ -15,6 +15,7 @@ Programming language: JavaScript
 The name of the tool used is karma, you can execute this by doing `yarn test`
 
 Test coverage before changes:
+
 <img width="644" alt="Screenshot 2024-07-08 at 6 55 37 PM" src="https://github.com/Xignotic84/compressorjs/assets/38007603/e5918c23-74fc-49b1-8c9e-60730517a5fe">
 
 ## Coverage improvement
@@ -53,7 +54,9 @@ The coverage has been increased from  90.99% to 91.46%. This was improved by cov
 ### Overall
 
 Coverage before tests
+
 <img width="644" alt="Screenshot 2024-07-08 at 6 55 37 PM" src="https://github.com/Xignotic84/compressorjs/assets/38007603/e5918c23-74fc-49b1-8c9e-60730517a5fe">
 
 Coverage after tests
+
 <img width="570" alt="Screenshot 2024-07-09 at 9 10 57 PM" src="https://github.com/Xignotic84/compressorjs/assets/38007603/c052f7a7-e6bb-4c9c-a24d-aaa8f67ab46b">
