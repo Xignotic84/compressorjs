@@ -1,4 +1,4 @@
-import { parseOrientation } from '../../../src/utilities';
+import { insertExif, parseOrientation } from '../../../src/utilities';
 
 describe('Check Utilities', () => {
   it('parseOrientation_1_[scaleX, scaleY, rotate]', (done) => {
@@ -59,5 +59,14 @@ describe('Check Utilities', () => {
       .equal(-90);
 
     done();
+  });
+
+  it('insertExif_array buffers with incorrect values_the same array buffer', () => {
+    const arrayBuffer = new Uint8Array([0x00, 0x00, 0x00, 0x00]).buffer;
+    const exifArray = [0x01, 0x02, 0x03];
+
+    const result = insertExif(arrayBuffer, exifArray);
+
+    expect(result).to.be.equal(arrayBuffer);
   });
 });
