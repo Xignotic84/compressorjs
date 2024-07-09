@@ -26,6 +26,7 @@ Function 1: parseOrientation
 [Link to commit for function 1 coverage](https://github.com/Xignotic84/compressorjs/commit/4e47e187cce7082848ac758b3b41774db0810df1)
 
 Old coverage results for this function:
+
 <img width="644" alt="Screenshot 2024-07-08 at 6 55 37 PM" src="https://github.com/Xignotic84/compressorjs/assets/38007603/e5918c23-74fc-49b1-8c9e-60730517a5fe">
 
 Improvement after first function coverage:
@@ -40,6 +41,7 @@ Function 2:
 [Link to commit for function 2 coverage](https://github.com/Xignotic84/compressorjs/commit/7bf7bcf80de9704ce7d48198657912fdf46215be)
 
 Old coverage results for this function:
+
 <img width="456" alt="Screenshot 2024-07-09 at 6 57 01 PM" src="https://github.com/Xignotic84/compressorjs/assets/38007603/04d668a5-1377-4559-aeaf-ed9e47fbe602">
 
 Improvement after second function coverage:
