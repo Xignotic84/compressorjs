@@ -31,7 +31,10 @@ Test coverage after changes:
 
 <Function 1>
 
-<Show a patch (diff) or a link to a commit made in your forked repository that shows the new/enhanced tests for function 1>
+[Link to commit for function 1 coverage](https://github.com/Xignotic84/compressorjs/commit/4e47e187cce7082848ac758b3b41774db0810df1)
+Improvement after first function coverage: 
+<img width="456" alt="Screenshot 2024-07-09 at 6 57 01 PM" src="https://github.com/Xignotic84/compressorjs/assets/38007603/04d668a5-1377-4559-aeaf-ed9e47fbe602">
+
 
 <Provide a screenshot of the old coverage results for such function>
 
